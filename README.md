@@ -98,3 +98,5 @@ def game_loop():
 
 # Iniciando o jogo
 game_loop()
+
+        
